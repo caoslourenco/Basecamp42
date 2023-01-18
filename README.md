@@ -1,6 +1,5 @@
 <p align="center">
-    <img src="![E2Zo2-QVkAIC-Ee](https://user-images.githubusercontent.com/18141491/213261131-cba0129d-0282-406d-8aab-9748dce297ca.png)
-">
+    <img src="https://user-images.githubusercontent.com/18141491/213261131-cba0129d-0282-406d-8aab-9748dce297ca.png">
 </p>
 
 <p align="center">
