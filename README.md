@@ -19,5 +19,5 @@ The 42 Basecamp is a 3-week intensive course that introduces students to the fun
 I completed the 42 Basecamp in 2022. and it was amazing experience. I learned a lot of new things and met a lot of new people. I learned how to program in C , how to use the Unix operating system, and how to use the Git version control system. I also learned how to communicate with other people and how to work in a team. I learned how to learn and how to teach. I learned how to solve problems and how to think critically. I learned how to be a better person. I learned how to be a better programmer.
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/18141491/213268168-3368427e-6f95-43fe-822e-99a70a0744a8.jpg">
+    <img src=" https://user-images.githubusercontent.com/18141491/213268481-88317f28-af1f-4f66-9bbe-b38ba4254bde.jpg">
 </p>
