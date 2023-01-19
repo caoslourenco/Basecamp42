@@ -1,7 +1,6 @@
-<p align="center">
+<a href="https://github.com/CamillaLourenco/Basecamp42/tree/main/42Basecamp">
     <img src="https://user-images.githubusercontent.com/18141491/213274042-96081f30-2066-4fea-ad84-d7938ca6be18.png">
-</p>
-
+</a>
 <p align="center">
      <img src="https://img.shields.io/badge/Status-Completed-brightgreen.svg" alt="Status">
 </p>
